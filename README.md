@@ -2,10 +2,10 @@
 Discord giveaway bot using **[discord-giveaways](https://npmjs.com/discord-giveaways)** package.
 
 # Invite
-[Click Me](https://discordapp.com/api/oauth2/authorize?client_id=685859869638918189&permissions=8&scope=bot "GiveawayBoat Invite")
+[Click Me](https://discord.com/api/oauth2/authorize?client_id=852910720693829673&permissions=8&scope=botv "GiveawayBOT Invite")
 
 # Support Server
-**[Click Me](https://discord.gg/5qN9fsF "Join GiveawayBoat Discord Server")**
+**[Click Me](https://discord.gg/7dCwqaB5vn "Join Cola's Workshop Discord Server")**
 
 # Command Prefix
 `g?` or `G?` or `@GiveawayBoat`
